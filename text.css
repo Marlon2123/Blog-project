@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    background: #f3f3f3 url(images/space\ 2.png) left repeat;
+}
+header {
+    background-color: #364552;
+    padding: 2rem 4rem;
+}
+section article{
+    margin: 1rem;
+    border-radius: 0.5rem;
+    padding:0.25rem 0;
+}
+article img{
+    width: 400px;
+}
+
+
+.title{
+    font-size: 2rem;
+    color:#f4f1bb
+}
+
+.container{
+
+    width:400px;
+    margin: 0 auto;
+}
+.tittle{
+    font-size: 4rem;
+    color:#eaf2e3;
+    text-align:center;
+}
+
+.sub{
+    color:#f4f1bb;
+    text-align: center;
+}
+
+.about{
+    color:#eaf2e3;
+    font-size: 1.5rem;
+
+    
+}
+
+.read p{
+    color:#eaf2e3;
+}
+footer{
+    background-color: #364552;
+    padding: 3.5rem;
+    color:#eaf2e3;
+}
+
+footer div{
+    float:right;
+}
+
+footer a{
+    transition: color 0.3s ease;
+    color:#eaf2e3;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color:#f4f1bb;
+}
+
+footer{
+    transition: color 0.3s ease;
+    color:#eaf2e3;
+    text-decoration:none;
+}
